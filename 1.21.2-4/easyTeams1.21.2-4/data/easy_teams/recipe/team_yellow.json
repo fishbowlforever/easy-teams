@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:yellow_dye",
+        "minecraft:wooden_sword"
+    ],
+    "result": {
+        "id": "minecraft:yellow_dye",
+        "components": {
+            "custom_name": "[{'text':'Click to join the Yellow Team!','italic':false}]",
+            "custom_data": {
+                "easy_teams": "remove_item"
+            }
+        }
+    }
+}

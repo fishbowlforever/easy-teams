@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "easy_teams:team_cyan"
+      }
+    }
+  },
+  "rewards": {
+    "function": "easy_teams:team_cyan"
+  }
+}

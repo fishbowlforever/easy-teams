@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:wooden_sword"
+    }
+  ],
+  "result": {
+    "id": "minecraft:white_dye",
+	"components": {
+	  "custom_name": "[{'text':'Click to leave your current Team!','italic':false}]",
+	  "custom_data": {"easy_teams":"remove_item"}
+	}
+  }
+}

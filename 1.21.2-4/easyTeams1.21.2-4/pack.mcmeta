@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "Team up with your Friends!",
+        "pack_format": 48,
+	"supported_formats": [
+      	    58,
+      	    61
+    ]
+    }
+}

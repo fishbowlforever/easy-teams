@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "easy_teams:team_yellow"
+      }
+    }
+  },
+  "rewards": {
+    "function": "easy_teams:team_yellow"
+  }
+}
